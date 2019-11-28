@@ -10,3 +10,7 @@ read directory
 
 ls $directory/$1
 
+
+# 2eme pattern 
+
+grep -il $2 $directory/$1
