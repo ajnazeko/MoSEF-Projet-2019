@@ -16,6 +16,6 @@ On peut aussi améliorer notre recherche grâce au deuxième pattern ( meilleur 
 Résultat : Vous avez les fichiers qui respectent les deux patterns !! 
 
 # Test
-![Test](/Captures/a%20ajouter2.PNG)
+![Captures](/Captures/a%20ajouter2.PNG)
 
 
